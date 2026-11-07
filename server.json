@@ -4,7 +4,7 @@
   "description": "Share a document as a link: the content lives in the URL, with no account and no server read.",
   "version": "0.5.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-link",
+    "url": "https://github.com/itsryanarmani/agentic-link",
     "source": "github",
     "id": 0
   },

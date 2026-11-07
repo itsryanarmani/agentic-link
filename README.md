@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/agentic-link)](https://www.npmjs.com/package/agentic-link)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-link) · [Source](https://github.com/pooriaarab/agentic-link) · [Support](https://github.com/pooriaarab/agentic-link/issues)
+[Package](https://www.npmjs.com/package/agentic-link) · [Source](https://github.com/itsryanarmani/agentic-link) · [Support](https://github.com/itsryanarmani/agentic-link/issues)
 
 Share a document as a link: the content lives in the URL, with no account and no server read.
 
@@ -348,7 +348,7 @@ Deploy by hand. Do not add a Cloudflare token to CI.
 ## Run locally
 
 ```sh
-git clone https://github.com/pooriaarab/agentic-link
+git clone https://github.com/itsryanarmani/agentic-link
 cd agentic-link
 npm install && npm run dev
 ```

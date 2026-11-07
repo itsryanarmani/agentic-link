@@ -11,5 +11,5 @@ Share a document as a link: the content lives in the URL fragment, with no accou
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-link
+- README: https://github.com/itsryanarmani/agentic-link
 - License: MIT
